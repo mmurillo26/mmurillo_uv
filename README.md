@@ -1,6 +1,6 @@
 # mmurillo_uv
 
-Hi Body!
+Hi friend!
 
 I'm a new developer and i try to learn everything i can every day, if you see that i'm wrong... tell me please! I will be thankful.
 
